@@ -2,9 +2,6 @@
   "name": "tailwind-portfolio-1",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "build": "tailwindcss -i ./src/input.css -o ./public/style.css --watch"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
