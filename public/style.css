@@ -904,6 +904,10 @@ video {
   background-color: rgb(49 46 129 / var(--tw-bg-opacity));
 }
 
+.bg-transparent {
+  background-color: transparent;
+}
+
 .bg-white {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
@@ -1178,8 +1182,8 @@ video {
 }
 
 @media (min-width: 768px) {
-  .md\:left-1\/4 {
-    left: 25%;
+  .md\:left-1 {
+    left: 0.25rem;
   }
 
   .md\:my-10 {
